@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @4j7l,
+- 👀 I’m interested in JavaScript and AutoHotKey,
+- 🌱 I’m currently learning JavaScript,
+- 📫 How to contact me: Discord: 4j7l#7124
